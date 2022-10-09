@@ -1,10 +1,12 @@
-﻿// lr1_TP.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
-//
+﻿
+#include "Library.h"
 
-#include <iostream>
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
-
+	cout << "The 1(5) laba TP is welcome you!" << endl;
+	Menu menu;
+	menu.main_menu();
+	return 0;
 }
