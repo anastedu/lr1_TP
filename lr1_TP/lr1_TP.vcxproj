@@ -142,6 +142,7 @@
     <ClCompile Include="Hero.cpp" />
     <ClCompile Include="Keeper.cpp" />
     <ClCompile Include="lr1_TP.cpp" />
+    <ClCompile Include="Menu.cpp" />
     <ClCompile Include="Monster.cpp" />
     <ClCompile Include="Villain.cpp" />
   </ItemGroup>
@@ -150,6 +151,7 @@
     <ClInclude Include="Hero.h" />
     <ClInclude Include="Keeper.h" />
     <ClInclude Include="Library.h" />
+    <ClInclude Include="Menu.h" />
     <ClInclude Include="Monster.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="Villain.h" />
